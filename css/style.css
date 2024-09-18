@@ -49,7 +49,7 @@ input {
 /* ------------------------------ */
 
 body {
-  background-image: url("img/photo-1487621167305-5d248087c724.avif");
+  background-image: url("/img/photo-1487621167305-5d248087c724.avif");
   background-size: cover;
   display: flex;
   justify-content: center;
